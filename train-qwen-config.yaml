@@ -31,7 +31,7 @@ num_train_epochs: 3.0
 optim: adamw_torch
 
 # output dir
-output_dir: ../output
+output_dir: output
 
 packing: false
 
