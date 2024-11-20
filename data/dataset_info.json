@@ -624,5 +624,20 @@
       "prompt": "content"
     },
     "folder": "python"
+  },
+  "multimodal-mind2web": {
+    "hf_hub_url": "DLI-Lab/Multimodal-Mind2Web-HTML-WM-messages",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant",
+      "system_tag": "system"
+    }
   }
 }
