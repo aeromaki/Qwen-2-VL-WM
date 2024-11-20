@@ -639,5 +639,20 @@
       "assistant_tag": "assistant",
       "system_tag": "system"
     }
+  },
+  "multimodal-mind2web-short": {
+    "hf_hub_url": "DLI-Lab/Multimodal-Mind2Web-HTML-WM-messages-filter-35000",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant",
+      "system_tag": "system"
+    }
   }
 }

@@ -2,7 +2,7 @@ bf16: true
 cutoff_len: 131072
 
 # check `data/dataset_info.json` for details
-dataset: multimodal-mind2web
+dataset: multimodal-mind2web-short # multimodal-mind2web
 dataset_dir: data
 
 ddp_timeout: 180000000
